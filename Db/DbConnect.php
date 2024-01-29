@@ -33,4 +33,6 @@ class DbConnect
         }
         return self::$instance;
     }
+    public function setConfiguration(string $chemin_vers_le_fichier)
+    {}
 }
