@@ -1,0 +1,18 @@
+{
+    "name": "b0bm0rane/php-library",
+    "description": "Composer : Créer une bibliothèque réutilisable",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "B0bm0rane\\PhpLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "b0bm0rane",
+            "email": "120396384+b0bm0rane@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
